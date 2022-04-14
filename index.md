@@ -1,9 +1,9 @@
 ## 这是我第一次在GitHub上写前端 HELLO GITHUB!
 
 趁热打铁！ 写一下如何把本地的代码部署到GitHub上！
-创建分支 git branch
-git pull origin master 拉远程分支的master代码
-git push orgin master 推master到远程分支
+1. 创建分支 git branch
+2. 拉远程分支的master代码 git pull origin master 
+3. 推master到远程分支 git push orgin master 
 ### git上的部署代码用的是SSH
 
 ```markdown
